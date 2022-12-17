@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DerickDspain
 - 👀 I’m interested in anything outdoors.
 - 🌱 I’m currently enrolled in a UTSA Coding Bootcamp!  
-- 💞️ I’m looking to collaborate on futire projects with friends and peers.
+- 💞️ I’m looking to collaborate on future projects with friends and peers.
 - 📫 I am able to be reached via Email @ derickdspain@yahoo.com.
 
 <!---
